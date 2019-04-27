@@ -1,4 +1,4 @@
-#Run as SU
-echo Executed
+#!/bin/bash
+# My first script
 
-echo There was an update.
+sudo apt-get update
