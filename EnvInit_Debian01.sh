@@ -1,2 +1,2 @@
 #Run as SU
-sudo su
+echo Executed
